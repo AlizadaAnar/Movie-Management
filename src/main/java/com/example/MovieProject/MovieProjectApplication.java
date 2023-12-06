@@ -6,15 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class MovieProjectApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(MovieProjectApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(MovieProjectApplication.class, args);
+    }
 
 }
 
-
-
-/*
-Project will have:
-		(title, year, rating, and genre).
- */
