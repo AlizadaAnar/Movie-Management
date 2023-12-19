@@ -7,7 +7,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
 @Controller
-@RequestMapping("/api/v1")
+//@RequestMapping("api/v1")
 //@CrossOrigin(origins = "http://localhost:8080")
 public class MovieController {
 
